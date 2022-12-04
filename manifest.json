@@ -1,0 +1,14 @@
+{
+    "name": "Lame Memes for Engineers",
+    "description": "An extension that allows busy people to view memes without leaving the current page",
+    "author": "Rupayan Roy",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16" : "images/gigachadPic 16.bmp",
+        "32" : "images/gigachadPic 32.bmp"
+    }
+}
